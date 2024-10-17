@@ -1,0 +1,15 @@
+.btn-selected {
+    background-color: #F4F6F8;
+}
+
+.btn-unselected {
+    background-color: #E5E8FD;
+}
+
+.arrow-selected {
+    fill: #343a40;
+}
+
+.arrow-unselected {
+    fill: #253cf2;
+}
